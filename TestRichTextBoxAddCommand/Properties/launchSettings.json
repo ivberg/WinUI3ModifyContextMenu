@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestRichTextBoxAddCommand (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TestRichTextBoxAddCommand (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
